@@ -22,5 +22,8 @@ Come visualizzare il sito
 Puoi vedere il sito online tramite il seguente link:
 👉 https://nicoladeluca02.github.io/Project-Work-Technogym/
 
+⚠️ Consiglio: per una migliore esperienza grafica e una resa ottimale del design,
+ti suggerisco di visitare il sito utilizzando Google Chrome.
+
 Project Work realizzato da Nicola De Luca
 Corso di Laurea in Informatica – Università Telematica Pegaso
